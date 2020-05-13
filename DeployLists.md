@@ -1,4 +1,4 @@
-# Install all lists
+# Deploy all lists
 
 The data backend for this solution is SharePoint. So all lists needed by this solution must be stored on a SharePoint site. To help you to deploy all needed lists, we designed a PowerAutomate Flow that is generating all lists for this solution. You can deploy the lists to a site collection or to a subsite. We suggest to deploy the lists to a subsite.
 
