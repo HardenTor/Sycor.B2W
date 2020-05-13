@@ -1,1 +1,1 @@
-# Sycor.Back2Work![testpic](images/SetFlowSitePrefix.png)
+# Sycor.Back2Work
