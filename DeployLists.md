@@ -41,3 +41,5 @@ After this you can save and run the flow. Navigate to the site where the assets 
 * btw_site
 * btw_space
 * btw_translation
+
+When the data model was setup completely you may delete this PowerAutomate Flow. It is only for deploying the lists.
