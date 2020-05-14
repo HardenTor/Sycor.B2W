@@ -16,11 +16,10 @@ Please keep in mind that this solution was developed and tested using an English
 
 ## Generate lists
 Follow these steps to generate the lists for the data backend of this solution:
-* Download the PowerAutomate Flow DeployBack2WorkLists.zip from the /src- folder
 * Open  your Office365 PowerAutomate Admin Center and navigate to MyFlows and than hit the Import-Button
 
 ![ImportFlowScreen](images/ImportFlow1.png)
-* Select the just downloaded file "DeployBack2WorkLists.zip" for upload
+* Select the just downloaded file "Sycor.Back2WorkDeployList.zip" for upload
 * Review the package content and make the necessary changes and import the package
 	* Choose as import option for the flow object "Create as new"
 	* Select a SharePoint Site Collection Admin for the SharePoint Connection
@@ -40,6 +39,5 @@ After this you can save and run the flow. Navigate to the site where the assets 
 * btw_shift
 * btw_site
 * btw_space
-* btw_translation
 
 When the data model was setup completely you may delete this PowerAutomate Flow. It is only for deploying the lists.
