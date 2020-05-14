@@ -8,4 +8,4 @@ The Admin App is used to define your company sites, buildings, spaces, shifts an
 1. Delete the connections to the SharePoint lists btw_appConfig, btw_building, btw_shift, btw_site and btw_space ![Import Canvas App](images/ImportAdminApp4.png). 
 1. Open the data sources menu on the left side of the screen and select SharePoint from the Connectors group. ![Import Canvas App](images/ImportAdminApp5.png)
 1. Now enter the URL to the site with our data source and choose the lists btw_appConfig, btw_building, btw_shift, btw_site and btw_space. ![Import Canvas App](images/ImportAdminApp6.png)
-1. Now save and publisch the app.
+1. Save and publisch the app, it is ready to use.

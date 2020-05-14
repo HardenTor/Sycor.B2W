@@ -6,4 +6,7 @@ The end user PowerApp is what employees will see on their PowerApp App on their 
 1. Now you have to connect the app with our SharePoint data model. For this task you will have to open the app in PowerApps Studio. On the top of the screen you will find a link to PowerApps Studio. ![Import Canvas App](images/ImportAdminApp2.png)
 1. When opening PowerApps Studio you will first have to grant permissions to SharePoint, Office 365 Users and Office 365 Outlook. Hit the allow button. ![Import Canvas App](images/Configure2.png)
 1. Next you navigate to Data Sources and delete the existing links to the sharepoint datasources. These are the following datasources: btw_translation, btw_space, btw_site, btw_shift, btw_reservation, btw_locationTrack, btw_building, btw_AppConfig ![Import Canvas App](images/Configure3.png)
+1. Open the data sources menu on the left side of the screen and select SharePoint from the Connectors group. ![Import Canvas App](images/ImportAdminApp5.png)
+1. Now enter the URL to the site with our data source and choose the lists btw_translation, btw_space, btw_site, btw_shift, btw_reservation, btw_locationTrack, btw_building, btw_AppConfig ![Import Canvas App](images/Configure4.png)
+1. Save and publisch the app, it is ready to use.
 
