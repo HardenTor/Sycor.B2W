@@ -1,5 +1,5 @@
 # Install the Admin PowerApp
-The Admin App is used to define your company sites, buildings, spaces, shifts and global settings. This is how you setup the Admin App:
+The Admin App is used to define your company sites, buildings, spaces, shifts and global settings. This is how to setup the Admin App:
 1. Open your environment in https://make.powerapps.com, sign in with administrator credentials, navigate to Apps and select "Import Canvas App"
 
 ![Import Canvas App](images/ImportAdminApp1.png)
@@ -25,4 +25,4 @@ The Admin App is used to define your company sites, buildings, spaces, shifts an
 
 ![Import Canvas App](images/ImportAdminApp6.png)
 
-8. Save and publisch the app, it is ready to use.
+8. Save and publish the app, it is ready to use now.
