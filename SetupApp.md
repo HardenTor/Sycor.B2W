@@ -40,5 +40,6 @@ The end user PowerApp is what employees will see on their PowerApp App on their 
 
 ![ExcelConnection](images/Configure7.png) 
 
-11. Save and publisch the app, it is ready to use.
+11. Save and publish the app, it is ready to use now.
 
+*Note:* When you are observing errors, try to refresh the data sources or repeat the import procedure.
