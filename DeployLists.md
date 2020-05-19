@@ -27,7 +27,7 @@ Follow these steps to generate the lists for the data backend of this solution:
 ![ConfigureFlowScreen](images/ImportFlow2.png)
 
 * Now open the flow in edit mode and search for the step "Initialize Site URI Prefix"
-* Enter the path to your site in the value field. I.e.: https://<yourTenant>.sharepoint.com/sites/<yourSiteCollection>/<yourSite>
+* Enter the path to your site in the value field. I.e.: "https://<yourTenant>.sharepoint.com/sites/<yourSiteCollection>/<yourSite>"
 
 ![SetURI](images/SetURI.png)
 
